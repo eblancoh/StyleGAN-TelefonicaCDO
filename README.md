@@ -11,7 +11,7 @@ All the steps devoted to:
 5. Testing routines for video and samples generation with style mixing.
 
 
-are included in the [document](https://github.com/eblancoh/StyleGAN-TelefonicaCDO/blob/master/StyleGAN_IdeasLocasCDO.pdf) available in the present repository.
+are included in the document [StyleGAN_IdeasLocasCDO](https://github.com/eblancoh/StyleGAN-TelefonicaCDO/blob/master/StyleGAN_IdeasLocasCDO.pdf) available in the present repository.
 
 ## Testing and samples generation
 
