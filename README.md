@@ -77,7 +77,7 @@ $ gedit ~/.bashrc
 Y luego añadimos la ruta:
 ```bash
 $ export PATH="/home/$USER/anaconda3/bin:$PATH"
-$conda create - n myenv python=3.6 anaconda
+$ conda create - n myenv python=3.6 anaconda
 ```
 Activamos el entorno myenv
 
@@ -88,7 +88,7 @@ source activate myenv
 Y ahora ejecutamos lo siguiente en un terminal
 
 ```bash
-conda install \
+$ conda install \
 tensorflow-gpu==1.10.0 \
 cudatoolkit==9.0 \
 cudnn=7.1.2 \
