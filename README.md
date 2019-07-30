@@ -178,7 +178,6 @@ Para mejorar la calidad de las imágenes, existe una librería llamada [waifu2x]
 Intenté hacerla correr en el directorio `~/stylegan/resources/`, pero no fue posible, pues piden instalar [Torch](http://torch.ch/docs/getting-started.html)
 La instalación de la librería está optimizada a Ubuntu 14.04 y a una versión muy anterior de CUDNN, por lo que al instalar [`cmake`](https://anglehit.com/how-to-install-the-latest-version-of-cmake-via-command-line/), obtenemos un error que no es posible subsanar con la versión de `cudatoolkit==9.0` que se usa.
 __________________________
-are included in the document [StyleGAN_IdeasLocasCDO](https://github.com/eblancoh/StyleGAN-TelefonicaCDO/blob/master/StyleGAN_IdeasLocasCDO.pdf) available in the present repository.
 
 
 ## Testing and samples generation
